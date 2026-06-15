@@ -97,13 +97,7 @@ TestNG's default output (including `emailable-report.html`) is available in the 
 
 ## Configuration
 
-Update browser type, base URL, implicit wait, and other settings inside your framework's configuration file (e.g., `config.properties` under `src/test/resources/`).
-
----
+Update browser type, base URL, implicit wait, and other settings inside your framework's configuration file (e.g., config.properties` under `src/test/resources/`).
 
 
----
 
-## License
-
-This project is open-source. Add a `LICENSE` file if you intend to publish or share it publicly.
