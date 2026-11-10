@@ -17,7 +17,7 @@ public class LoginPage {
      private By userName = By.id("input-email");
      private By password = By.id("input-password");
      private By loginBtn = By.xpath("//input[@value='Login']");
-     private By forgotPwdLink = By.linkText("Forgotten Password12");
+     private By forgotPwdLink = By.linkText("Forgotten Password");
      private By logo = By.xpath("//a[text()='Qafox.com']");
      
      private By registerLink = By.linkText("Register");
